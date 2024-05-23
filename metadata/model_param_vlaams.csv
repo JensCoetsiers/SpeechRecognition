@@ -1,0 +1,6 @@
+,model,parameters,unlabeled_train,labeled_train,avg_wer_telephone,avg_wer_conversational
+0,chirp,2000000000.0,12000000.0,200000.0,0.2976,0.2935
+1,googleSTT,180000000.0,,,0.4709,0.482
+2,seamless,2300000000.0,4500000.0,876000.0,0.6965,0.6015
+3,whisper,1550000000.0,0.0,680000.0,0.6984,0.6018
+4,Deepgram,,,,0.679,0.568
